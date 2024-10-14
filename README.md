@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phan Duy</h1>
-<h3 align="center">A final-year Software Engineering student</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duyphan135&label=Profile%20views&color=0e75b6&style=flat" alt="duyphan135" /> </p>
+<h3 align="center">Final-year Software Engineering student</h3>
 
 - 📫 How to reach me **duyphan1305@gmail.com**
 
